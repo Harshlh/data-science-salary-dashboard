@@ -4,7 +4,7 @@
 This business intelligence application was constructed to visualize global data science payroll metrics. The dashboard transforms raw operational salary data into a highly scannable, executive-level layout designed to optimize decision-making.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Layout](PASTE_YOUR_GITHUB_IMAGE_LINK_HERE)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 🛠️ Core Features & Technical Skills Applied
 * **Executive Aesthetic:** Engineered a custom high-visibility dark header banner, eliminated default gridlines, and applied targeted accent color mapping to highlight data insights cleanly.
