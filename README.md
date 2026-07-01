@@ -6,9 +6,6 @@ This business intelligence application was constructed to visualize global data 
 ## 🖼️ Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
 
-## 🌐 Live Document Preview
-👉 **[Click here to view the high-fidelity interactive PDF Layout directly in your browser!](Salary_Dashboard_Interactive.pdf)**
-
 ## 🛠️ Core Features & Technical Skills Applied
 * **Executive Aesthetic:** Engineered a custom high-visibility dark header banner, eliminated default gridlines, and applied targeted accent color mapping to highlight data insights cleanly.
 * **Dynamic Interactivity:** Implemented dynamic KPI summary cards capturing **Median Salary**, **Top Job Platforms**, and **Total Job Counts**.
